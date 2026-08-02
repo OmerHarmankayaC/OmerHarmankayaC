@@ -16,12 +16,11 @@ notebooks.
 **Selected work**
 
 | | |
-|---|---|
 | [LoadCast](https://github.com/OmerHarmankayaC/LoadCast) | Hourly electricity demand forecasting for the Turkish grid — EPİAŞ data pipeline, weather integration, LightGBM model beating the official load plan |
 | [Vera Q&A](https://rag.omerharmankaya.com) | RAG assistant for a finance app, local inference backend |
 | [Portfolio](https://omerharmankaya.com) | This site — Vite/React |
 | [IEEE-WebSite](https://github.com/OmerHarmankayaC/IEEE-WebSite) | TED University IEEE Student Branch website |
 
-Python · PyTorch · LightGBM · React/TypeScript · Flutter · Supabase · Vercel
+Python · PyTorch · LightGBM · React/TypeScript · Supabase · Vercel
 
 [omerharmankaya.com](https://omerharmankaya.com) · [LinkedIn](https://www.linkedin.com/in/omer-harmankaya/)
