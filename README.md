@@ -16,6 +16,7 @@ notebooks.
 **Selected work**
 
 | | |
+|---|---|
 | [LoadCast](https://github.com/OmerHarmankayaC/LoadCast) | Hourly electricity demand forecasting for the Turkish grid — EPİAŞ data pipeline, weather integration, LightGBM model beating the official load plan |
 | [Vera Q&A](https://rag.omerharmankaya.com) | RAG assistant for a finance app, local inference backend |
 | [Portfolio](https://omerharmankaya.com) | This site — Vite/React |
