@@ -12,9 +12,6 @@ them as notebooks.
 - Product lead for [Vera Finance](https://apps.apple.com/tr/app/vera-finance/id6760785410),
   a published iOS personal finance app — plus its
   [RAG Q&A assistant](https://rag.omerharmankaya.com).
-- Training a Turkish sentence embedding model from scratch: synthetic pair
-  generation, contrastive training on BERTurk, honest evaluation against a
-  human-written gold set.
 
 **Selected work**
 
